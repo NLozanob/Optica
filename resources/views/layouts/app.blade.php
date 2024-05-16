@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Optica') }}</title>
+    <title>{{ config('app.name', 'Parqueadero') }}</title>
 
 
     <!-- Google Font: Source Sans Pro -->
